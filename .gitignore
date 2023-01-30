@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+bigquery_auth.json
+*.csv.gz
+__pycache__
+src/uniswapv3simulator/uniswapv3simulator
+.vscode
